@@ -3,7 +3,15 @@ package team4;
 public class Demo4 {
 
 	public static void main(String[] args) {
-		System.out.println("Team 4");
+	System.out.println("Hello from Team4 ;)");
+		
+		System.err.println("Yahiya was here");
+
+	 	System.out.println("Hello from Team4 ;)");
+		
+		System.err.println("Yahiya was here");	System.out.println("Hello from Team4 ;)");
+		
+		System.err.println("Yahiya was here");
 		
 		//code by Ivan
 		//Hi Team4
