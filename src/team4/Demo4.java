@@ -4,13 +4,7 @@ public class Demo4 {
 	
 	public static void main(String[] args) {
 		
-	
-
-	 	System.out.println("Java is so much fun with team 3");
-		
-		
-		
-		System.out.println("Happy bday Yahya!! Wish you a best year brother... team 3");
+		System.out.println("Team4 .. YAAY!");
 	}
 // sam
 	// test1223
