@@ -9,6 +9,8 @@ public class Demo2 {
 		
 		System.err.println("Yahiya was here");
 
+		System.out.println("GitHub day 3");
+
 		//test
 	}
 	
