@@ -2,22 +2,9 @@ package team4;
 
 public class Demo4 {
 
-	public static void main(String[] args) {
-	System.out.println("Hello from Team4 ;)");
+	 	System.out.println("Java is so much fun with team 3");
 		
-		System.err.println("Yahiya was here");
-
-	 	System.out.println("Hello from Team4 ;)");
 		
-		System.err.println("Yahiya was here");	System.out.println("Hello from Team4 ;)");
-		
-		System.err.println("Yahiya was here");
-		
-		//code by Ivan
-		//Hi Team4
-		System.out.println("Team4 - Sinan");
-
-		System.out.println("Hi, back at you Team 4");
 	}
 // sam
 	// test1223
@@ -26,7 +13,7 @@ public class Demo4 {
 	//method by Ivan
 	public static void printInteger(Integer... i) {
 
-		for (Integer integer : i) {
+		for (Integer integer : d) {
 
 			System.out.println(integer);
 
