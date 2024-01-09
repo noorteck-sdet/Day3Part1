@@ -12,6 +12,20 @@ public class Demo2 {
 		// Kazim...
 		System.out.println("GitHub day 3");
 
+		System.out.println("Hello from Team4 ;)");
+		
+		System.err.println("Yahiya was here");
+
+		// Kazim...
+		System.out.println("GitHub day 3");
+
+		System.out.println("Hello from Team4 ;)");
+		
+		System.err.println("Yahiya was here");
+
+		// Kazim...
+		System.out.println("GitHub day 3");
+
 		//test
 	}
 	
