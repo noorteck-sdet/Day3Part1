@@ -10,15 +10,22 @@ public class Demo4 {
 	// test1223
 
 	
-	//method by Ivan
-	public static void printInteger(Integer i) {
-		
-		Integer[] d = null;
-		for (Integer integer : d) {
-
-			System.out.println(integer);
-
-		}
+//	//method by Ivan
+//	public static void printInteger(int i) {
+//		
+//		Integer[] d = null;
+//		for (Integer integer : d) {
+//
+//			System.out.println(integer);
+//
+//		}
+//		
+//	}
+	//From Cristian
+	public static int method1(int a, int b) {
+		int result = 0;
+		result = a + b;
+		return result;
 	}
 }
 
