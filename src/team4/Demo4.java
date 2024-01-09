@@ -20,5 +20,16 @@ public class Demo4 {
 		System.out.println("Hi, back at you Team 4");
 	}
 
-	//test1223
+	// test1223
+
+	
+	//method by Ivan
+	public static void printInteger(Integer... i) {
+
+		for (Integer integer : i) {
+
+			System.out.println(integer);
+
+		}
+	}
 }
